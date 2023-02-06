@@ -23,12 +23,15 @@
 
 ### Blockchain
 
+
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/blockchain/blockchain-original.svg" title="Blockchain" alt="Blockchain" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" />
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/ethereum/ethereum-original.svg" title="NFTs (Non-Fungible Tokens)" alt="NFTs (Non-Fungible Tokens)" width="40" height="40"/>&nbsp;
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Smart Contracts" alt="Smart Contracts" width="40" height="40"/>&nbsp;
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/ethereum/ethereum-original.svg" title="NFTs (Non-Fungible Tokens)" alt="NFTs (Non-Fungible Tokens)" width="40" height="40"/>&nbsp; -->
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" />
+
 
 </div>
 
@@ -82,6 +85,13 @@
 - Utilizing TypeScript for large and complex applications
 - Implementing GraphQL for efficient and flexible API design
 - Writing efficient, scalable and maintainable code
+
+  ### Badges
+
+  <b>My GitHub Stats</b>
+  <a href="http://www.github.com/mtahir08">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtahir08&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
 
 <!--
 **mtahir08/mtahir08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
