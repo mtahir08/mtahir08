@@ -69,6 +69,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+
+
+## Skills and Expertise
+
+- Building scalable, high-performance web applications
+- Implementing modern front-end and back-end technologies
+- Developing blockchain-based solutions
+- Working with AWS services to build cloud-based systems
+- Utilizing TypeScript for large and complex applications
+- Implementing GraphQL for efficient and flexible API design
+- Writing efficient, scalable and maintainable code
+
+
 <!--
 **mtahir08/mtahir08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
