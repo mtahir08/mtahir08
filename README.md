@@ -19,9 +19,9 @@
   <h1>Hi there 👋</h1>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 
-#### Blockchain
+### Blockchain
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/blockchain/blockchain-original.svg" title="Blockchain" alt="Blockchain" width="40" height="40"/>&nbsp;
@@ -31,7 +31,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Smart Contracts" alt="Smart Contracts" width="40" height="40"/>&nbsp;
 </div>
 
-#### Web | Frontend
+### Web | Frontend
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -46,13 +46,13 @@
   
 </div>
 
-#### Mobile
+### Mobile
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 </div>
 
-#### Backend & DB
+### Backend & DB
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -63,7 +63,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
-#### Others
+### Others
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
