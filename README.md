@@ -17,6 +17,7 @@
   </div>
   <br />
   <h1>Hi there 👋</h1>
+  <p>I have been working in the software industry since 2015, and I am constantly learning and exploring new technologies to improve my skills and stay current with industry trends.</p>
 </div>
 
 ## :hammer_and_wrench: Languages and Tools :
