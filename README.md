@@ -88,7 +88,7 @@
 
   ### Badges
 
-  <b>My GitHub Stats</b>
+  <b>My GitHub Stats</b> </br />
   <a href="http://www.github.com/mtahir08">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtahir08&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
