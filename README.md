@@ -29,6 +29,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/ethereum/ethereum-original.svg" title="NFTs (Non-Fungible Tokens)" alt="NFTs (Non-Fungible Tokens)" width="40" height="40"/>&nbsp;
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Smart Contracts" alt="Smart Contracts" width="40" height="40"/>&nbsp;
+
 </div>
 
 ### Web | Frontend
@@ -66,10 +67,11 @@
 ### Others
 
 <div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
-
 
 ## Skills and Expertise
 
@@ -80,7 +82,6 @@
 - Utilizing TypeScript for large and complex applications
 - Implementing GraphQL for efficient and flexible API design
 - Writing efficient, scalable and maintainable code
-
 
 <!--
 **mtahir08/mtahir08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
