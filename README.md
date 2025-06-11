@@ -5,10 +5,10 @@
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   </div>    
   <div id="badges">
-    <a href="https://www.linkedin.com/in/mtahir08">
+    <a href="https://www.linkedin.com/in/mtahir08" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/mtahirps">
+    <a href="https://twitter.com/mtahirps" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
@@ -24,11 +24,10 @@
 
 ## 🧠 AI & Generative Tech
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" title="LangChain" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" title="LangChain" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" title="OpenAI" width="40" height="40"/>
 </div>
 
@@ -41,7 +40,7 @@
 
 ## 🌐 Web & Frontend
 
-<div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" width="40" height="40"/>
@@ -55,7 +54,7 @@
 
 ## 📱 Mobile Development
 
-<div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native" width="40" height="40"/>
 </div>
@@ -64,9 +63,8 @@
 
 ## 🛠 Backend & Databases
 
-<div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
@@ -76,7 +74,7 @@
 
 ## ☁️ Cloud, DevOps & Tools
 
-<div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>
@@ -86,7 +84,7 @@
 
 ## 🔗 Blockchain
 
-<div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3.js" />
 </div>
@@ -113,4 +111,4 @@
 
 ---
 
-Let me know if you want me to add any other skills or make further improvements!
+Let me know if you need further changes or have additional preferences!
