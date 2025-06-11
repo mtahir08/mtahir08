@@ -27,8 +27,8 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" title="LangChain" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" title="OpenAI" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/LangChain_logo.svg/800px-LangChain_logo.svg.png" title="LangChain" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/OpenAI_Logo_2023.svg" title="OpenAI" width="40" height="40"/>
 </div>
 
 - ✅ GPT-4, LLMs, LangChain, and vector search (Pinecone, FAISS)
@@ -105,10 +105,10 @@
 
 ## 📊 GitHub Stats
 
-<a href="http://www.github.com/mtahir08">
+<a href="http://www.github.com/mtahir08" target="_blank">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtahir08&theme=dark&hide_border=true"/>
 </a>
 
 ---
 
-Let me know if you need further changes or have additional preferences!
+Let me know if any further changes are required!
